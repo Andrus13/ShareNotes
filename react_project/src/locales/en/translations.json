@@ -1,0 +1,45 @@
+{   
+    "language" : "Language",
+    "nav" : {
+        "home" : "Home",
+        "note" : "Note",
+        "create" : "Create",
+        "about": "About"
+    },
+    "main": {
+        "button1": "Create Note",
+        "button2": "View Note",
+        "definition": "service for sharing notes. Create a note, send a link to the note and your friend can view it. After viewing, the note will be deleted (or after 15 minutes from the moment it was created).",
+        "info1": "How to take a note",
+        "info1_1": "Go to the Create tab",
+        "info1_2": "Paste or type text and click Create",
+        "info1_3": "Send the generated address to a friend!",
+        "info2": "How to read a note",
+        "info2_1": "Go to the sent URL, or enter the address by hand",
+        "info2_2": "here"
+    },
+    "note": {
+        "label" : "Enter hash of the notes",
+        "error1" : "Fill in the fields",
+        "button1" : "Finde Note",
+        "info1" : "Attention! Copy the note. After the show, the note will be deleted!",
+        "button2" : "Finde another Note",
+        "error2" : "No such Note found! Try another hash."
+    },
+    "create": {
+        "label" : "Enter a note",
+        "info1" : "Attention!",
+        "info1_1" : "The maximum note length is 1000 characters.",
+        "button1" : "Create",
+        "info2" : "Copy the URL.",
+        "info3" : "Attention! You can view the note once!",
+        "button2" : "Create another Note",
+        "error" : "Note cannot be empty!",
+        "info4" : "URL copied to clipboard."
+    },
+    "error": {
+        "info1" : "Something goes wrong!",
+        "info2" : "This page was not found",
+        "button" : "Home Page"
+    }
+}

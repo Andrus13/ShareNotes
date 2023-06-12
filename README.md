@@ -1,7 +1,5 @@
 # ShareNotes
 
-# MyLanding
-
 Before you begin, you need to install:
 - Node.js ( https://nodejs.org );
 - local server ( I used OpenServer https://ospanel.io ); 

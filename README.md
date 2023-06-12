@@ -1,8 +1,8 @@
 # ShareNotes
 
 Before you begin, you need to install:
-- Node.js ( https://nodejs.org );
-- local server ( I used OpenServer https://ospanel.io ); 
+   - Node.js ( https://nodejs.org );
+   - local server ( I used OpenServer https://ospanel.io ); 
 
 How to start!
 
@@ -27,11 +27,11 @@ Project:
    }).listen(3500);
 ```
 3. Run the following commands in the console for backend:
-  - cd/backend_project;
-  - npm install ( install the required packages );
-  - node index.js;
+   - cd/backend_project;
+   - npm install ( install the required packages );
+   - node index.js;
 4. Onpe new console and run the following commands for frontend:
-  - cd/react_project;
-  - npm install;
-  - npm start;
+   - cd/react_project;
+   - npm install;
+   - npm start;
 5. The project will be available in the browser at http://localhost:3000 ( if you haven't changed the port );

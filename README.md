@@ -1,7 +1,7 @@
 # ShareNotes
 
 Before you begin, you need to install:
-   - Node.js ( https://nodejs.org );
+   - Node.js ( https://nodejs.org ^18.0);
    - local server ( I used OpenServer https://ospanel.io ); 
 
 How to start!
